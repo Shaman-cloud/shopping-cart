@@ -5,3 +5,4 @@ Add project structure
 Update README
 Update README
 Add feature X
+Initial commit
